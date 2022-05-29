@@ -233,6 +233,20 @@ display: none;
     margin-bottom: 100px;
 
 }
+
+table {
+    width: 50%;
+    height: auto;
+    border-collapse: separate;
+    border-style: none;
+    overflow-x: auto;
+    border-spacing: 15px;
+    
+/*    cellspacing:2;
+     cellpadding = "2" border = "1"
+     */
+}
+
 /*--------media queries---------*/
 @media (min-width:600px) and (max-width: 1023px)  { 
     /* tablets */ 
@@ -348,6 +362,26 @@ display: none;
         font-family: 'Ubuntu', sans-serif;
         font-size: 16px;
     }
+
+    #section_formulario {
+        background-color: lightgreen;
+        font-size: 16px;
+        font-family: 'Ubuntu', sans-serif;
+        font-weight: bold;
+        color: black;
+        float: center;
+        padding-top: 50px;
+        padding-bottom: 50px;
+        padding-left: 200px;
+        margin: 10px;
+        width: 70%;
+        height: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 100px;
+        margin-bottom: 100px;
+    
+    }
 }
 
 
@@ -405,32 +439,32 @@ left: 0px;
 }
 #titulo_main {
     font-family: 'Ubuntu', sans-serif;
-    font-size: 8px;
+    font-size: 14px;
 }
     
 #articulo {
-    width: 100%;
+    width: auto;
     height: auto;
-    float: center;
+    float: left;
     margin-top: 10px;
 }
     
 #img1 {
-    width: 100%;
+    width: auto;
     height: auto;
     float: none;
     background-image: url(/website/img/img1.png);
 }
     
 #articulo2 {
-    width: 100%;
+    width: auto;
     height: auto;
-    float: center;
+    float: left;
     margin-top: 0px;
 }
     
 #img2 {
-    width: 80%;
+    width: auto;
     height: auto;
     float: none;
     background-image: url(/website/img/wifi6-concurrency2.png);
@@ -442,7 +476,7 @@ left: 0px;
 }
 
 #video {
-    width: 480px;
+    width: auto;
     margin-left: auto;
     margin-right: auto;    
     margin-top: 10px
@@ -470,9 +504,19 @@ left: 0px;
 }
 #parrafos {
     font-family: 'Ubuntu', sans-serif;
-    font-size: 7px;
+    font-size: 12px;
 }
 
+#section_formulario {
+    background-color: lightgreen;
+    font-size: 16px;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    color: black;
+    float: left;
+    width: 100%;
+    height: 100%;
+}
 
 }
 
