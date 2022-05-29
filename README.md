@@ -1,6 +1,6 @@
 # Codo a Codo
 ## TPO Desarrollo Web HTML, CSS y Javascript
-Proyecto para curso Codo a Codo realizado por el alumno Mariano Candial
+Proyecto para curso Codo a Codo realizado por el alumno **Mariano Candial**
 
 ### Requisitos del TP
 * **3 páginas html:** en el repositorio se pueden encontrar 3 páginas: index.html, conceptos.html y contacto.hml
