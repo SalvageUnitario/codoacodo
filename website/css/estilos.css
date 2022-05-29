@@ -242,9 +242,7 @@ table {
     overflow-x: auto;
     border-spacing: 15px;
     
-/*    cellspacing:2;
-     cellpadding = "2" border = "1"
-     */
+
 }
 
 /*--------media queries---------*/
@@ -476,7 +474,7 @@ left: 0px;
 }
 
 #video {
-    width: auto;
+    width: 100%;
     margin-left: auto;
     margin-right: auto;    
     margin-top: 10px
@@ -492,7 +490,7 @@ left: 0px;
 }
     
 #video_wifi6 {
-    width: auto;
+    width: 100%;
     height: auto;
     margin-top: 1px;
     margin-bottom: 10px;
