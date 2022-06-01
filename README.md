@@ -3,7 +3,7 @@
 Proyecto para curso Codo a Codo realizado por el alumno **Mariano Candial**
 
 ### Requisitos del TP
-* **3 páginas html:** en el repositorio se pueden encontrar 3 páginas: index.html, conceptos.html y contacto.hml
+* **3 páginas html:** en el repositorio se pueden encontrar 3 páginas: index.html, conceptos.html y contacto.html
 * **Utilizar etiquetas semánticas:** en las páginas mencionadas se puede ver el uso de head, section, nav, article, etc.
 * **Formulario validación:** en la web contacto.hmtl se incluye un formulario que valida que el usuario ingrese los todos los campos antes de poder enviarlo. El script se encuentra en /website/js/scripts.js
 * **Utilizar Iframe, iconos FontAwesome y fuentes locales o de Google:** el video en el final de la página index.html está insertado como iframe, los íconos delante de cada opción de la barra de navegación son de FontAwesome y la tipografía fue utilizada desde Google fonts (Ubuntu)
